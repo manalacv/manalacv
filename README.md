@@ -5,7 +5,7 @@ AWS Certified Solutions Architect - Associate
 ## Current Project
 **F1 Race Analytics Data Warehouse**: End-to-end pipeline on the OpenF1 API:
 
-Python extraction -> Snowflake -> dbt -> Airflow -> PowerBI. *(in progress)*
+Python extraction → Snowflake → dbt → Airflow → PowerBI. *(in progress)*
 
 ## Notable Projects
 
