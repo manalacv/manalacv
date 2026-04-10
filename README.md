@@ -13,7 +13,7 @@ Python extraction -> Snowflake -> dbt -> Airflow -> PowerBI. *(in progress)*
 SQL · Python · Git · AWS · PowerBI
 
 ## Contact Me
-- **LinkedIn**: https://www.linkedin.com/in/vmanalac/
+**LinkedIn**: https://www.linkedin.com/in/vmanalac/
 
 <!--
 **manalacv/manalacv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
