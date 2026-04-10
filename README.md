@@ -1,8 +1,10 @@
 # About Me
-Based in the Philippines. Currently building an end-to-end data pipeline on F1 race data and working through Python and SQL. AWS Certified Solutions Architect - Associate 
+Based in the Philippines. Currently building an end-to-end data pipeline on F1 race data and working through Python and SQL. 
+AWS Certified Solutions Architect - Associate 
 
 ## Current Project
 **F1 Race Analytics Data Warehouse**: End-to-end pipeline on the OpenF1 API:
+
 Python extraction -> Snowflake -> dbt -> Airflow -> PowerBI. *(in progress)*
 
 ## Notable Projects
