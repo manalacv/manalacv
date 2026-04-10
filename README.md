@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+# About Me
+
+## Current Project
+
+## Notable Projects
+
+## Tools
+SQL · Python · Git · AWS · PowerBI
+
+## Contact Me
+- LinkedIn [https://www.linkedin.com/in/vmanalac/]
+- Email: [manalac.victor17@gmail.com]
+
 <!--
 **manalacv/manalacv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
